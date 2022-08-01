@@ -1,0 +1,44 @@
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csprojResolveAssemblyReference.cache
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.Cache
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.CoreCompileInputs.cache
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.pdb
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.FormAddBook.resources
+D:\1819teaching\AD\w07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.FormSearchBook.resources
+C:\Users\Adekunle\Desktop\COMPUTING YEAR 2\COMP-1551-Application Development\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.AssemblyReference.cache
+C:\Users\Adekunle\Desktop\COMPUTING YEAR 2\COMP-1551-Application Development\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adekunle\Desktop\COMPUTING YEAR 2\COMP-1551-Application Development\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+C:\Users\Adekunle\Desktop\COMPUTING YEAR 2\COMP-1551-Application Development\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.exe
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\bin\Debug\LibraryApplication.pdb
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.AssemblyReference.cache
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.FormAddBook.resources
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.FormSearchBook.resources
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.cache
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.csproj.CoreCompileInputs.cache
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.exe
+C:\Users\NAZY\Desktop\week 8-1\week 8\code for lab 07\code for lab 07\LibraryApplication\LibraryApplication\obj\Debug\LibraryApplication.pdb
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\bin\Debug\LibraryApplication.exe.config
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\bin\Debug\LibraryApplication.exe
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\bin\Debug\LibraryApplication.pdb
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.Form1.resources
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.Properties.Resources.resources
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.csproj.GenerateResource.cache
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.csproj.CoreCompileInputs.cache
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.exe
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.pdb
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.FormAddQuestion.resources
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.FormSearchQuestion.resources
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.csproj.AssemblyReference.cache
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.csproj.CopyComplete
+C:\Users\NAZY\Desktop\ADE PROJECT\LibraryApplication\obj\Debug\LibraryApplication.PlayPage.resources
